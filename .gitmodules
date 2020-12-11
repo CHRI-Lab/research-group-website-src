@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/CHRI-Lab/CHRI-Lab.github.io.git
+	branch = master

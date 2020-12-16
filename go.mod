@@ -3,6 +3,6 @@ module github.com/wowchemy/starter-research-group
 go 1.15
 
 require (
-	github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20201129124759-cdcfa2da28e2 // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201129124759-cdcfa2da28e2 // indirect
+	github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20201213184117-a0b9887f37fb // indirect
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201213184117-a0b9887f37fb // indirect
 )

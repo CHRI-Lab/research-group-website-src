@@ -6,15 +6,20 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
+title: "computational human-robot interaction research group"
 subtitle: ""
-hero_media: welcome.jpg
+hero_media: 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
 advanced:
   css_style:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+
+
+The Computational Human-Robot Interaction (CHRI) research group at UNSW is headed by [Wafa Johal](wafa.johal.org/) and studies the computational and social aspects of interactions between humans and robots. Our mission is to understand ...
+
+Research interests include: human-computer/robot interaction; AI and machine learning for human-robot interaction (HRI); robots for learning; robot assistants for cognitive tasks; robot social  reasoning; nonverbal communication in HRI; and behavioural signal processing for interaction design.
+

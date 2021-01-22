@@ -19,3 +19,4 @@ projects: ["tip","cellulo"]
 publication: "*[Proceedings of the 31ST AUSTRALIAN CONFERENCE ON HUMAN-COMPUTER-INTERACTION (OZCHI'19)]*"
 ---
 
+{{< gdocs  src="https://docs.google.com/presentation/d/e/2PACX-1vSAbsZww1VUF4gDexQLD7Goez5ApAkyU85mnNXrNaPgeiHIzSs9Aeo1RNkZWp3WaAK-aT4gjm0zMDID/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">}}

@@ -8,11 +8,13 @@ abstract: "Domestic robotic entities are on the rise, out of which, domestic dro
 featured: false
 publication: "Proceedings of the 8th International Conference on Human-Agent Interaction (HAI '20)"
 tags: ["Domestic Drones", "Social Drones", "Human-Drone Interaction", "Drone Applications"]
-url_pdf: "http://wafa.johal.org/files/papers/DomesticDrone_HAI2020.pdf"
+url_pdf: "files/papers/DomesticDrone_HAI2020.pdf"
+url_slides: "https://drive.google.com/file/d/1fxB-qDHidb2tngBqicKmd7B7OseKPfB3/view?usp=sharing" 
 projects:
 - drone
 tags:
 - drone
-- education
+
 ---
 
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vSn43ovcyD-23eboGn2c_2ss1gy5gCN2pac5N6QUUsxH10Br3WYeTBmYBvNqDZTS8sam8XaoxpIbHjB/pub?start=false&loop=false&delayms=3000">}}

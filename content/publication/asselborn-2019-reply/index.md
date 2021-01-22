@@ -8,6 +8,6 @@ abstract: ""
 featured: false
 publication: "*npj Digital Medicine*"
 projects:
-- tegami
+- dynamico
 ---
 

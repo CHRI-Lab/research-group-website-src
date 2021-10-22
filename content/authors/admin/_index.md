@@ -6,15 +6,17 @@ title: Wafa Johal
 superuser: true
 
 # Role/position
-role: Lecturer at the School of Computer Science and Engineering
+role: ""
 
 # Organizations/Affiliations
 organizations:
+- name: University of Melbourne
+  url: ""
 - name: University of New South Wales
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ""
 
 interests:
  - Human-Computer/Robot Interaction

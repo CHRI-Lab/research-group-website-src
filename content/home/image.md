@@ -12,20 +12,20 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title:
+title: 
 subtitle:
 
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: coders.jpg
-    image_darken: 0
-    image_parallax: false
-    image_position: center
+    image_darken: 50
+    image_parallax: true
+    image_position: left
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["100px", "0", "20px", "0"]
 advanced:
   css_class: fullscreen
 ---

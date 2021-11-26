@@ -1,0 +1,12 @@
+# Font style metadata
+name = "MyFonts"
+
+# Optional Google font URL
+google_fonts = "family=Fira+Mono&family=Fira+Sans:wght@500&family=Source+Sans+Pro"
+
+# Font families
+heading_font = "Fira+Sans"
+body_font = "Source+Sans"
+nav_font = "Lato"
+mono_font = "Fira+Mono"
+

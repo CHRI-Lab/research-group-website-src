@@ -27,6 +27,6 @@ content:
 
 design:
   show_interests: false
-  show_role: true
+  show_role: false
   show_social: true
 ---
